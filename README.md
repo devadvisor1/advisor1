@@ -1,4 +1,4 @@
-  DEV TH3BOSS 
+  DEV advisor
   
   
  كيفية تنصيب بوت الزعيم التحديث الاخير 2016
@@ -23,11 +23,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/devadvisor1/advisor1.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd TH3BOSS
+cd advisor1
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -45,11 +45,11 @@ chmod +x launch.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@Sudo_Sky
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
-قـنـاة الـسـورس
-@llDEV1ll
+@XxMTxX_bot
+ـنـاة الـسـورس
+@Team_Advisor
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
